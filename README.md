@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @DhiaHan
-- 👀 I’m interested in Desktop App development, Web scraping, AI
-- How to reach me instagram: dhia.eddine.hanafi
--                 facebook : Dhia Eddine Hanafi
+- Desktop App development, Web automation, AI                 
 
 <!---
 DhiaHan/DhiaHan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
